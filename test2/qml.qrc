@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Button.qml</file>
+        <file>Slider.qml</file>
+        <file>CheckBox.qml</file>
+        <file>check1.png</file>
+        <file>woof.png</file>
+        <file>images.png</file>
+        <file>CheckButton.qml</file>
+        <file>RadioButton.qml</file>
+    </qresource>
+</RCC>
