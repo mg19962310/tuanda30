@@ -11,5 +11,10 @@ Window {
        width: parent.width / 2
        height: parent.height / 2
        color: "red"
+       Text{
+          anchors.centerIn: parent
+          text: "Tuan"
+          font.pixelSize: 50
+       }
     }
 }
