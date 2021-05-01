@@ -6,4 +6,10 @@ Window {
     width: 640
     height: 480
     title: qsTr("Hello World")
+    Rectangle{
+       anchors.centerIn: parent
+       width: parent.width / 2
+       height: parent.height / 2
+       color: "red"
+    }
 }
